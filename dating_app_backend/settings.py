@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'swipe',
     'message',
     'story',
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
