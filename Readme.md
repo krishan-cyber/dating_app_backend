@@ -43,6 +43,7 @@ Built using **Python** and **Django**, the **Django REST Framework (DRF)** enabl
 
 Automatic, user-friendly API documentation is generated using **drf-yasg**.  
 For smooth integration, it is recommended to review the project’s code structure.  
+for documentation refer http://127.0.0.1:8000/swagger/
 
 ---
 
